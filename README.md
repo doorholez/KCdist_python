@@ -1,5 +1,5 @@
 # KCdist_python
-calculate Kendall-Colijn distance in python\n
+calculate Kendall-Colijn distance in python\
 i find there is only R version so i write it :)
 
 usage:
